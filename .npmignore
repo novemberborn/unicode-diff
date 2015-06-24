@@ -1,0 +1,6 @@
+.gitignore
+.jshintrc
+.node-version
+.npmignore
+bin
+*.tgz

@@ -1,0 +1,37 @@
+{
+  "name": "unicode-diff",
+  "version": "0.0.0",
+  "description": "Differences between Unicode versions",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node bin/generate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novemberborn/code-point-diff.git"
+  },
+  "keywords": [
+    "unicode",
+    "code points"
+  ],
+  "author": "Mark Wubben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novemberborn/code-point-diff/issues"
+  },
+  "homepage": "https://github.com/novemberborn/code-point-diff#readme",
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "regenerate": "^1.2.1",
+    "unicode-5.0.0": "^0.1.5",
+    "unicode-5.1.0": "^0.1.5",
+    "unicode-5.2.0": "^0.1.5",
+    "unicode-6.0.0": "^0.1.5",
+    "unicode-6.1.0": "^0.1.5",
+    "unicode-6.2.0": "^0.1.5",
+    "unicode-6.3.0": "^0.1.5",
+    "unicode-7.0.0": "^0.1.5",
+    "unicode-8.0.0": "^0.1.5"
+  }
+}
