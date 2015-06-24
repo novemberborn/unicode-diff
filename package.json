@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/novemberborn/code-point-diff.git"
+    "url": "git+https://github.com/novemberborn/unicode-diff.git"
   },
   "keywords": [
     "unicode",
@@ -18,9 +18,9 @@
   "author": "Mark Wubben",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/novemberborn/code-point-diff/issues"
+    "url": "https://github.com/novemberborn/unicode-diff/issues"
   },
-  "homepage": "https://github.com/novemberborn/code-point-diff#readme",
+  "homepage": "https://github.com/novemberborn/unicode-diff#readme",
   "devDependencies": {
     "mkdirp": "^0.5.1",
     "regenerate": "^1.2.1",
