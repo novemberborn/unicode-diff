@@ -1,6 +1,6 @@
 {
   "name": "unicode-diff",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Differences between Unicode versions",
   "main": "index.js",
   "scripts": {
