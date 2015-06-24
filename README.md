@@ -28,7 +28,7 @@ v7.0.0 through v8.0.0.
 data](https://github.com/mathiasbynens/node-unicode-data) available in the
 `devDependencies`.
 
-Note that the generate script uses `const`, `let`, `for…of` and template
+Note that the generate script uses `const`, `let`, `for…of`, `Set` and template
 strings.
 
 ## Acknowledgements
