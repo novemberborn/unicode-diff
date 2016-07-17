@@ -20,7 +20,7 @@ require('unicode-diff/5.0.0/8.0.0/regex');
 ```
 
 Supports Unicode v5.0.0, v5.1.0, v5.2.0, v6.0.0, v6.1.0, v6.2.0, v6.3.0 and
-v7.0.0 through v8.0.0.
+v7.0.0 through v9.0.0.
 
 ## Generating the diff
 
