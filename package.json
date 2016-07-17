@@ -25,15 +25,15 @@
     "@novemberborn/as-i-preach": "^4.0.2",
     "mkdirp": "^0.5.1",
     "regenerate": "^1.2.1",
-    "unicode-5.0.0": "^0.1.5",
-    "unicode-5.1.0": "^0.1.5",
-    "unicode-5.2.0": "^0.1.5",
-    "unicode-6.0.0": "^0.1.5",
-    "unicode-6.1.0": "^0.1.5",
-    "unicode-6.2.0": "^0.1.5",
-    "unicode-6.3.0": "^0.1.5",
-    "unicode-7.0.0": "^0.1.5",
-    "unicode-8.0.0": "^0.1.5"
+    "unicode-5.0.0": "^0.7.0",
+    "unicode-5.1.0": "^0.7.0",
+    "unicode-5.2.0": "^0.7.0",
+    "unicode-6.0.0": "^0.7.0",
+    "unicode-6.1.0": "^0.7.0",
+    "unicode-6.2.0": "^0.7.0",
+    "unicode-6.3.0": "^0.7.0",
+    "unicode-7.0.0": "^0.7.0",
+    "unicode-8.0.0": "^0.7.0"
   },
   "as-i-preach": {
     "ignore": [

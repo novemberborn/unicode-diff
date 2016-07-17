@@ -34,8 +34,8 @@ for (let name in pkg.devDependencies) {
     console.log(`Loading ${version}`)
 
     const codePoints = new Set()
-    require(name).blocks.forEach(function (block) {
-      const byBlock = require(`${name}/blocks/${block}/code-points`)
+    require(name).Block.forEach(function (block) {
+      const byBlock = require(`${name}/Block/${block}/code-points`)
       for (let cp of byBlock) {
         codePoints.add(cp)
       }
