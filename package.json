@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "generate": "node bin/generate.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "as-i-preach"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/novemberborn/unicode-diff#readme",
   "devDependencies": {
+    "@novemberborn/as-i-preach": "^4.0.2",
     "mkdirp": "^0.5.1",
     "regenerate": "^1.2.1",
     "unicode-5.0.0": "^0.1.5",
@@ -33,5 +34,13 @@
     "unicode-6.3.0": "^0.1.5",
     "unicode-7.0.0": "^0.1.5",
     "unicode-8.0.0": "^0.1.5"
+  },
+  "as-i-preach": {
+    "ignore": [
+      "5.*",
+      "6.*",
+      "7.*",
+      "index.js"
+    ]
   }
 }

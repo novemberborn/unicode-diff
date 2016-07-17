@@ -1,8 +1,0 @@
-{
-  "esnext": true,
-  "globalstrict": true,
-  "loopfunc": true,
-  "node": true,
-  "quotmark": "single",
-  "unused": true
-}
