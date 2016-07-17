@@ -62,6 +62,7 @@ while (definitions.length) {
         diff.push(cp)
       }
     }
+    diff.sort()
 
     writeCodePoints(def, other, diff)
     writeRegex(def, other, diff)
