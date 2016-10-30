@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/novemberborn/unicode-diff#readme",
   "devDependencies": {
-    "@novemberborn/as-i-preach": "^5.0.0",
+    "@novemberborn/as-i-preach": "^6.0.0",
     "mkdirp": "^0.5.1",
     "regenerate": "^1.2.1",
     "unicode-5.0.0": "^0.7.0",
